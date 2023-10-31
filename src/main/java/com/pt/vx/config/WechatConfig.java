@@ -49,17 +49,17 @@ public class WechatConfig {
                 new BirthDay(2023,12,23,true,false,"考试！！！")
         ));
 
-        userList.add(getUser(
-                "o45D550EVYLDYyFBWu6rbQ06r25g",
-                "dw2X5wDOU5-gbY5IgtA7ihLQK9GkYP5gOtyeupIFE-s",
-                "小兔",
-                "一个神奇的地方",
-                "昌吉",
-                new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
-                new BirthDay(1999,2,15,true,false,"pt生日快乐！！"),
-                new BirthDay(2023,11,1,true,true),
-                new BirthDay(2023,12,23,true,false,"周年快乐！！！")
-        ));
+//        userList.add(getUser(
+  //              "o45D550EVYLDYyFBWu6rbQ06r25g",
+    //            "dw2X5wDOU5-gbY5IgtA7ihLQK9GkYP5gOtyeupIFE-s",
+      //          "小兔",
+        //        "一个神奇的地方",
+          //      "昌吉",
+            //    new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
+              //  new BirthDay(1999,2,15,true,false,"pt生日快乐！！"),
+                //new BirthDay(2023,11,1,true,true),
+                //new BirthDay(2023,12,23,true,false,"周年快乐！！！")
+        //));
 
 
     }
