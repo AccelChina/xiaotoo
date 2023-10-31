@@ -39,14 +39,14 @@ public class WechatConfig {
     static {
         userList.add(getUser(
                 "o45D550EVYLDYyFBWu6rbQ06r25g", //扫码关注你的测试号以后，测试平台会出现TA的微信号
-                "dw2X5wDOU5-gbY5IgtA7ihLQK9GkYP5gOtyeupIFE-s", //要给这个人发送的模板ID
+                "-0UO7HKbTmrbzfhbqCfq750vkjdkAheJ9eiOoxQIOlM", //要给这个人发送的模板ID
                 "小兔", //咋称呼这个人
                 "一个神奇的地方", //这个人的详细地址
                 "昌吉", //这个人在的城市
-                new BirthDay(1999,2,15,true,false,"pt生日快乐！！"),
-                new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
-                new BirthDay(2020,7,8,true,true),
-                new BirthDay(2020,7,8,true,false,"周年快乐！！！")
+                new BirthDay(1999,2,15,true,false,"考试加油！！"),
+                new BirthDay(1999,8,11,false,false,"考试快乐哦~~"),
+                new BirthDay(2023,11,1,true,true),
+                new BirthDay(2023,12,23,true,false,"考试！！！")
         ));
 
         userList.add(getUser(
@@ -57,8 +57,8 @@ public class WechatConfig {
                 "昌吉",
                 new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
                 new BirthDay(1999,2,15,true,false,"pt生日快乐！！"),
-                new BirthDay(2020,7,8,true,true),
-                new BirthDay(2020,7,8,true,false,"周年快乐！！！")
+                new BirthDay(2023,11,1,true,true),
+                new BirthDay(2023,12,23,true,false,"周年快乐！！！")
         ));
 
 
