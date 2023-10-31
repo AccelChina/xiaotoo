@@ -49,7 +49,6 @@ public class WechatConfig {
                // new BirthDay(2023,12,23,false,false,"考试！！！")
         ));
 
-            static {
         userList.add(getUser(
                 "o45D550EVYLDYyFBWu6rbQ06r25g", //扫码关注你的测试号以后，测试平台会出现TA的微信号
                 "MG4h-ZxF2pBZbvDhmQhrAYNbO-1Z2UG_hWLYkAGDlEk", //要给这个人发送的模板ID
