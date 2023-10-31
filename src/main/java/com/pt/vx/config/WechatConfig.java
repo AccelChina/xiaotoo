@@ -45,7 +45,7 @@ public class WechatConfig {
                 "昌吉", //这个人在的城市
               //  new BirthDay(2023,10,31,false,false,"考试加油！！"),
               // new BirthDay(2023,10,30,false,false,"考试快乐哦~~"),
-                new BirthDay(2023,10,31,false,true),
+                new BirthDay3(2023,10,31,false,true),
                 new BirthDay(2023,12,23,false,false,"考试！！！")
         ));
 
