@@ -44,9 +44,9 @@ public class WechatConfig {
                 "一个神奇的地方", //这个人的详细地址
                 "昌吉", //这个人在的城市
               //  new BirthDay(2023,10,31,false,false,"考试加油！！"),
-              // new BirthDay(2023,10,30,false,false,"考试快乐哦~~"),
-                new BirthDay3(2023,10,31,false,true),
-                new BirthDay(2023,12,23,false,false,"考试！！！")
+              new BirthDay(2023,10,31,false,true,"考试快乐哦~~"),
+                new BirthDay(2023,12,23,false,false)
+               // new BirthDay(2023,12,23,false,false,"考试！！！")
         ));
 
 //        userList.add(getUser(
