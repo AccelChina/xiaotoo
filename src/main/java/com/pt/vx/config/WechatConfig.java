@@ -39,27 +39,17 @@ public class WechatConfig {
     static {
         userList.add(getUser(
                 "o45D550EVYLDYyFBWu6rbQ06r25g", //扫码关注你的测试号以后，测试平台会出现TA的微信号
-                "ByXbM_vPR71ZiBucsbZpVyEfLsWozmuH_bqFfFr07_Q", //要给这个人发送的模板ID
+                "Logz7OtadIqTli1PoO_ZQkO8qKncTYZ83qNr7iE0dFo", //要给这个人发送的模板ID
                 "小兔", //咋称呼这个人
                 "一个神奇的地方", //这个人的详细地址
                 "昌吉", //这个人在的城市
               //  new BirthDay(2023,10,31,false,false,"考试加油！！"),
-              new BirthDay(2023,10,31,false,true,"考试快乐哦~~"),
-                new BirthDay(2023,12,23,false,false)
+              new BirthDay(2023,10,31,false,true),
+                new BirthDay(2023,12,23,false,false,"说不出你哪里好，就是想等你考完看你洗澡( ᖛ ̫ ᖛ )ʃ) ")
                // new BirthDay(2023,12,23,false,false,"考试！！！")
         ));
-
-//        userList.add(getUser(
-  //              "o45D550EVYLDYyFBWu6rbQ06r25g",
-    //            "dw2X5wDOU5-gbY5IgtA7ihLQK9GkYP5gOtyeupIFE-s",
-      //          "小兔",
-        //        "一个神奇的地方",
-          //      "昌吉",
-            //    new BirthDay(1999,8,11,false,false,"生日快乐哦~~"),
-              //  new BirthDay(1999,2,15,true,false,"pt生日快乐！！"),
-                //new BirthDay(2023,11,1,true,true),
-                //new BirthDay(2023,12,23,true,false,"周年快乐！！！")
-        //));
+        
+//可以在这里添加推送给第二个人的模版
 
 
     }
